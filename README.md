@@ -2,6 +2,7 @@
 This project is designed to analyze and visualize data from an eCommerce database. It provides functionalities for creating and populating the database, inserting new data, performing data analysis, and visualizing the results through a graphical user interface (GUI).
 
 ## Project Structure
+```
 Ecommerce-Analysis-Dashboard/
     │
     ├── ecommerce.py
@@ -10,6 +11,7 @@ Ecommerce-Analysis-Dashboard/
     ├── GUI.py
     ├── DA_UI.py
     └── requirements.txt
+```
 
 
 ### Files Description
@@ -25,7 +27,7 @@ Ecommerce-Analysis-Dashboard/
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/lieubachthanh/Ecommerce-Analysis-Dashboard.git
-    cd ecommerce_analysis
+    cd Ecommerce-Analysis-Dashboard
     ```
 
 2. **Install the Required Packages**:
